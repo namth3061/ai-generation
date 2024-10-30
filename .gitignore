@@ -1,0 +1,9 @@
+/.idea
+/.venv
+/vidai
+/__pycache__/
+/utils/__pycache__
+/public/images/*
+/public/processed_images/*
+token.txt
+.env
